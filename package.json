@@ -1,0 +1,24 @@
+{
+  "name": "findmiss",
+  "version": "1.0.0",
+  "description": "difference in array",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanky10/missingno.git"
+  },
+  "author": "oluwabanke fagbemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbanky10/missingno/issues"
+  },
+  "homepage": "https://github.com/dbanky10/missingno#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
